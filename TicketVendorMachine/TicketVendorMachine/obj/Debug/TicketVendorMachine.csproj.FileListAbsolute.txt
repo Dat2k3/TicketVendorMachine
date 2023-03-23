@@ -1,0 +1,28 @@
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form1.resources
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form2.resources
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form3.resources
+C:\Users\PC\Desktop\ATM model\App\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form4.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\bin\Debug\Database1.mdf
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\bin\Debug\Database1_log.ldf
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe.config
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.exe
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\bin\Debug\TicketVendorMachine.pdb
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.AssemblyReference.cache
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form1.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form2.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form3.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Form4.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.Properties.Resources.resources
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.GenerateResource.cache
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.csproj.CoreCompileInputs.cache
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.exe
+G:\My Drive\2223 SE\SE_10%\TicketVendorMachine-main\TicketVendorMachine\TicketVendorMachine\obj\Debug\TicketVendorMachine.pdb
